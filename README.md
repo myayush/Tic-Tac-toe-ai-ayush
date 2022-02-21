@@ -1,3 +1,1 @@
-# JUST BASICS
-
-learning to use git
+final.cpp file contains the  overall project
