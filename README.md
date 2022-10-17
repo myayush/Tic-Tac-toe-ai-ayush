@@ -5,4 +5,4 @@ The algorithm finds the best move from the set of winning moves minimising the n
 
 **Usage**
 <br>
-Copy the code and run on a c++ compiler,and follow the instructions printed on terminal
+Copy the code and run on a c++ compiler,and follow the instructions that get shown
